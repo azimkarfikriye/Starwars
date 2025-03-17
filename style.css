@@ -112,8 +112,12 @@ label {
         width: 90%;
     }
     #homeworldButtonsContainer {
-        flex-direction: row;
+        /* flex-direction: row; */
         align-items: center;
+        flex-wrap: wrap;
+    }
+    label {
+        max-width: 100%; 
     }
 } 
 
