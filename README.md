@@ -1,1 +1,1 @@
-Bu proje, HTML5, CSS3 ve JavaScript kullanarak bir Star Wars karakterleri görüntüleme sitesidir. Kullanıcılar, karakterleri listeleyebilir ve karakterlerin evrenlerine göre filtreleme yapabilir. Ayrıca, karakterler hakkında detaylı bilgilere ve görsellere ulaşılabilir.
+Bu proje, HTML5, CSS3 ve JavaScript kullandığım bir Star Wars karakterleri görüntüleme sitesidir. Kullanıcılar, karakterleri listeleyebilir ve karakterlerin evrenlerine göre filtreleme yapabilir. Ayrıca, karakterler hakkında detaylı bilgilere ve görsellere ulaşılabilir.
